@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Purvesh0227/DSA/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Purvesh0227/DSA/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -20,6 +21,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Purvesh0227/DSA/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Purvesh0227/DSA/tree/main/0268-missing-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
