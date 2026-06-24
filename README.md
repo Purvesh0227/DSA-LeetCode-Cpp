@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Purvesh0227/DSA/tree/main/0001-two-sum/) | Easy |
 | [0136-single-number](https://github.com/Purvesh0227/DSA/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Purvesh0227/DSA/tree/main/0268-missing-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Purvesh0227/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -11,6 +12,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Purvesh0227/DSA/tree/main/0001-two-sum/) | Easy |
 | [0268-missing-number](https://github.com/Purvesh0227/DSA/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Purvesh0227/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Math
