@@ -1,6 +1,6 @@
-// class Solution {
-// public:
-//     vector<int> twoSum(vector<int>& nums, int target) {
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
 //         // Pairing  each element with its index
 //         // vector<pair<int,int>> arr;
 //         // for(int i = 0; i < nums.size(); i++) {
@@ -28,38 +28,38 @@
 //         // }
 //         // return {};
 
-//         unordered_map<int,int>m;
-//         vector<int> ans;
-//         int n = nums.size();
-
-//         for(int i = 0;i<n;i++)
-//         {
-//             int first = nums[i];
-//             int second = target - first;
-//             if(m.find(second)!=m.end())
-//             {
-//                 ans.push_back(i);
-//                 ans.push_back(m[second]);
-//                 break;
-//             }
-//             m[first] = i;
-//         }
-//         return ans;
-//     }
-// };
-class Solution {
-public:
-    vector<int> twoSum(vector<int>& nums, int target) {
-        map<int,int> mpp;
+        unordered_map<int,int>m;
+        vector<int> ans;
         int n = nums.size();
-        for(int i=0;i<n;i++){
-            int num = nums[i];
-            int more = target-num;
-            if(mpp.find(more)!=mpp.end()){
-                return {mpp[more],i};
+
+        for(int i = 0;i<n;i++)
+        {
+            int first = nums[i];
+            int second = target - first;
+            if(m.find(second)!=m.end())
+            {
+                ans.push_back(i);
+                ans.push_back(m[second]);
+                break;
             }
-            mpp[num]=i;
+            m[first] = i;
         }
-        return {-1,-1};
+        return ans;
     }
 };
+// class Solution {
+// public:
+//     vector<int> twoSum(vector<int>& nums, int target) {
+//         map<int,int> mpp;
+//         int n = nums.size();
+//         for(int i=0;i<n;i++){
+//             int num = nums[i];
+//             int more = target-num;
+//             if(mpp.find(more)!=mpp.end()){
+//                 return {mpp[more],i};
+//             }
+//             mpp[num]=i;
+//         }
+//         return {-1,-1};
+//     }
+// };
