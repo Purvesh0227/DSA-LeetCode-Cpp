@@ -1,6 +1,6 @@
-class Solution {
-public:
-    vector<int> twoSum(vector<int>& nums, int target) {
+// class Solution {
+// public:
+//     vector<int> twoSum(vector<int>& nums, int target) {
 //         // Pairing  each element with its index
 //         // vector<pair<int,int>> arr;
 //         // for(int i = 0; i < nums.size(); i++) {
@@ -26,27 +26,27 @@ public:
 //         //         start++;
 //         //     }
 //         // }
-//         // return {};
+        // return {};
 
-        unordered_map<int,int>m;
-        vector<int> ans;
-        int n = nums.size();
+//         unordered_map<int,int>m;
+//         vector<int> ans;
+//         int n = nums.size();
 
-        for(int i = 0;i<n;i++)
-        {
-            int first = nums[i];
-            int second = target - first;
-            if(m.find(second)!=m.end())
-            {
-                ans.push_back(i);
-                ans.push_back(m[second]);
-                break;
-            }
-            m[first] = i;
-        }
-        return ans;
-    }
-};
+//         for(int i = 0;i<n;i++)
+//         {
+//             int first = nums[i];
+//             int second = target - first;
+//             if(m.find(second)!=m.end())
+//             {
+//                 ans.push_back(i);
+//                 ans.push_back(m[second]);
+//                 break;
+//             }
+//             m[first] = i;
+//         }
+//         return ans;
+//     }
+// };
 // class Solution {
 // public:
 //     vector<int> twoSum(vector<int>& nums, int target) {
@@ -63,3 +63,24 @@ public:
 //         return {-1,-1};
 //     }
 // };
+
+class Solution{
+    public:
+         vector<int> twoSum(vector<int>& arr, int tar){
+            unordered_map<int,int> m;
+            vector<int> result;
+            int n = arr.size();
+            for(int i=0;i<n;i++){
+                int first = arr[i];
+                int second = tar-first;
+                if(m.find(second)!=m.end()){
+                    result.push_back(i);
+                    result.push_back(m[second]);
+                    break;
+                }
+                m[first] = i;
+
+            }
+            return result;
+        }
+};
