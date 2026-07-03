@@ -1,29 +1,20 @@
 class Solution {
 public:
-    int bins(vector<int>arr,int tar, int st , int end)
-    {
-        if(st<=end)
-        {
-            int mid = st + (end-st)/2;
+    int bins(vector<int>& arr, int t, int low, int high) {
+        if(low > high)
+            return -1;
 
-            if(arr[mid] == tar) return mid;
-            else if(arr[mid] >= tar)
-            {
-               return bins(arr,tar,st,mid-1);
-            }
+        int mid = low + (high - low) / 2;
 
-            else
-            {
-                return bins(arr,tar,mid+1,end);
-            }
-        }
-        return -1;
-
+        if(arr[mid] == t)
+            return mid;
+        else if(arr[mid] > t)
+            return bins(arr, t, low, mid - 1);
+        else
+            return bins(arr, t, mid + 1, high);
     }
-    int search(vector<int>& arr, int tar) 
-    {
 
-        return bins(arr,tar,0,arr.size()-1);
-        
+    int search(vector<int>& arr, int t) {
+        return bins(arr, t, 0, arr.size() - 1);
     }
 };
