@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/Purvesh0227/DSA/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/Purvesh0227/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Purvesh0227/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/Purvesh0227/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Purvesh0227/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Purvesh0227/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Purvesh0227/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -35,6 +36,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Purvesh0227/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/Purvesh0227/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/Purvesh0227/DSA/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/Purvesh0227/DSA/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
