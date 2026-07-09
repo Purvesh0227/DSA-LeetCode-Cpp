@@ -36,6 +36,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Purvesh0227/DSA/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/Purvesh0227/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Purvesh0227/DSA/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
@@ -94,4 +95,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Purvesh0227/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/Purvesh0227/DSA/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
