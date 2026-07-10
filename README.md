@@ -77,6 +77,7 @@
 | [0031-next-permutation](https://github.com/Purvesh0227/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Purvesh0227/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0283-move-zeroes](https://github.com/Purvesh0227/DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/Purvesh0227/DSA/tree/main/0344-reverse-string/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Purvesh0227/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -101,4 +102,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Purvesh0227/DSA/tree/main/0050-powx-n/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/Purvesh0227/DSA/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
