@@ -20,6 +20,7 @@
 | [0169-majority-element](https://github.com/Purvesh0227/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Purvesh0227/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Purvesh0227/DSA/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/Purvesh0227/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Purvesh0227/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Purvesh0227/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Purvesh0227/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -75,6 +76,7 @@
 | [0015-3sum](https://github.com/Purvesh0227/DSA/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/Purvesh0227/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Purvesh0227/DSA/tree/main/0075-sort-colors/) | Medium |
+| [0283-move-zeroes](https://github.com/Purvesh0227/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Purvesh0227/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
