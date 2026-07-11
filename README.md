@@ -32,6 +32,7 @@
 | [0001-two-sum](https://github.com/Purvesh0227/DSA/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/Purvesh0227/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Purvesh0227/DSA/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/Purvesh0227/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Purvesh0227/DSA/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Purvesh0227/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Math
@@ -65,6 +66,7 @@
 | [0075-sort-colors](https://github.com/Purvesh0227/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Purvesh0227/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Purvesh0227/DSA/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/Purvesh0227/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Purvesh0227/DSA/tree/main/0268-missing-number/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -108,6 +110,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Purvesh0227/DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/Purvesh0227/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Purvesh0227/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Purvesh0227/DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Greedy
