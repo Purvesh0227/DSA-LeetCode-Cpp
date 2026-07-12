@@ -18,6 +18,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Purvesh0227/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Purvesh0227/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Purvesh0227/DSA/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/Purvesh0227/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/Purvesh0227/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Purvesh0227/DSA/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Purvesh0227/DSA/tree/main/0283-move-zeroes/) | Easy |
@@ -65,6 +66,7 @@
 | [0015-3sum](https://github.com/Purvesh0227/DSA/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/Purvesh0227/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Purvesh0227/DSA/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/Purvesh0227/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/Purvesh0227/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Purvesh0227/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Purvesh0227/DSA/tree/main/0268-missing-number/) | Easy |
@@ -88,6 +90,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Purvesh0227/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Purvesh0227/DSA/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/Purvesh0227/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,4 +120,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Purvesh0227/DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Purvesh0227/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Purvesh0227/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
