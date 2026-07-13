@@ -118,6 +118,7 @@
 | [0242-valid-anagram](https://github.com/Purvesh0227/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Purvesh0227/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Purvesh0227/DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0796-rotate-string](https://github.com/Purvesh0227/DSA/tree/main/0796-rotate-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,4 +135,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Purvesh0227/DSA/tree/main/0014-longest-common-prefix/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Purvesh0227/DSA/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
