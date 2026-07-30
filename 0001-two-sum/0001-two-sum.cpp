@@ -64,23 +64,24 @@
 //     }
 // };
 
-class Solution{
-    public:
-         vector<int> twoSum(vector<int>& arr, int tar){
-            unordered_map<int,int> m;
-            vector<int> result;
-            int n = arr.size();
-            for(int i=0;i<n;i++){
-                int first = arr[i];
-                int second = tar-first;
-                if(m.find(second)!=m.end()){
-                    result.push_back(i);
-                    result.push_back(m[second]);
-                    break;
-                }
-                m[first] = i;
+// 
 
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        unordered_map<int,int> m;
+        vector<int> result;
+        int n = nums.size();
+        for(int i=0;i<n;i++){
+            int first = nums[i];
+            int second = target-first;
+            if(m.find(second)!=m.end()){
+                result.push_back(i);
+                result.push_back(m[second]);
+                break;
             }
-            return result;
+            m[first]=i;
         }
+    return result;
+    }
 };
