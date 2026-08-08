@@ -21,6 +21,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Purvesh0227/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Purvesh0227/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Purvesh0227/DSA/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/Purvesh0227/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Purvesh0227/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/Purvesh0227/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Purvesh0227/DSA/tree/main/0268-missing-number/) | Easy |
@@ -48,6 +49,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Purvesh0227/DSA/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/Purvesh0227/DSA/tree/main/0069-sqrtx/) | Easy |
+| [0189-rotate-array](https://github.com/Purvesh0227/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Purvesh0227/DSA/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -90,6 +92,7 @@
 | [0031-next-permutation](https://github.com/Purvesh0227/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Purvesh0227/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/Purvesh0227/DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0189-rotate-array](https://github.com/Purvesh0227/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Purvesh0227/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Purvesh0227/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Purvesh0227/DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
