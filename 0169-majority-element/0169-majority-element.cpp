@@ -4,11 +4,9 @@ public:
         unordered_map<int,int> count;
         for(int i:nums){
             count[i]++;
-        }
-        vector<int> res;
-        for(auto& [num,c]:count){
-            if(c>nums.size()/2) return num;
-        }
-        return -1;
+            if(count[i]>nums.size()/2) return i;
+        }    
+
+    return -1;
     }
 };
