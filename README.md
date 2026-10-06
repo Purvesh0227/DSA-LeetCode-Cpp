@@ -31,6 +31,7 @@
 | [0229-majority-element-ii](https://github.com/Purvesh0227/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Purvesh0227/DSA/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Purvesh0227/DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Purvesh0227/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Purvesh0227/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Purvesh0227/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Purvesh0227/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -70,6 +71,7 @@
 | [0162-find-peak-element](https://github.com/Purvesh0227/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Purvesh0227/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/Purvesh0227/DSA/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Purvesh0227/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Purvesh0227/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Purvesh0227/DSA/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
@@ -77,6 +79,7 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/Purvesh0227/DSA/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Purvesh0227/DSA/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Purvesh0227/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +111,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Purvesh0227/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Purvesh0227/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Purvesh0227/DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Purvesh0227/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Purvesh0227/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Purvesh0227/DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Purvesh0227/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -215,4 +219,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Purvesh0227/DSA/tree/main/0075-sort-colors/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Purvesh0227/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Purvesh0227/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
