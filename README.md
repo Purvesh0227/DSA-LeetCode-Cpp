@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/Purvesh0227/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/Purvesh0227/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Purvesh0227/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/Purvesh0227/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/Purvesh0227/DSA/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Purvesh0227/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Purvesh0227/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -87,6 +88,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/Purvesh0227/DSA/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Purvesh0227/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/Purvesh0227/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Purvesh0227/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Purvesh0227/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Purvesh0227/DSA/tree/main/0169-majority-element/) | Easy |
@@ -216,6 +218,7 @@
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Purvesh0227/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Purvesh0227/DSA/tree/main/0075-sort-colors/) | Medium |
 ## Bubble Sort
 | Problem Name | Difficulty |
