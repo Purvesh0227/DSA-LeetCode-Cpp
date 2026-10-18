@@ -6,15 +6,16 @@ public:
         int j = n-1;
 
         while(j>=0){
-            if(i>=0 && A[i]>B[j]){
+            if(i>=0 && A[i] > B[j]){
                 A[k] = A[i];
-                i--;       
+                i--;
             }
             else{
                 A[k] = B[j];
                 j--;
             }
             k--;
+        
         }
         
     }
